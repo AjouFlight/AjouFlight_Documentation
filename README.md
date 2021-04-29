@@ -7,9 +7,13 @@
 ## Service Description   
 **Flight shooting game to defeat enemies of the universe** 
 
+<br>
+
 ## GDD
 
 <a href="https://drive.google.com/file/d/1N8-FuvgpmoRJ6agHC2u04vY-big8U_J4/view?usp=sharing">Game Development Documentation
+  
+<br>
   
 ## System Architecture
 
