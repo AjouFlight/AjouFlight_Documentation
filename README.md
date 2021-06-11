@@ -42,9 +42,15 @@
 
 <br>
 
-## APK flie (Android build file)
+## User Manual
 
-<a href="https://drive.google.com/file/d/1bzkj-tawLwBuR59jfRF59JlN5Sslw34K/view?usp=sharing"> APK file
+<a href="https://drive.google.com/file/d/1p44nuATVlUP3LYlWSgiilCopTKveIjKh/view?usp=sharing"> User Manual
+
+<br>
+
+## APK Flie (Android build file)
+
+<a href="https://drive.google.com/file/d/1bzkj-tawLwBuR59jfRF59JlN5Sslw34K/view?usp=sharing"> APK File
 
 
 
