@@ -9,14 +9,14 @@
 
 <br>
   
-## Trailer_Video
+## Trailer Video
 
 <a href="https://drive.google.com/file/d/1Dct9A3KAF258EsUp7fGuzvK7OUpS4CkG/view?usp=sharing">Trailer_Video
   
 
 <br>
   
-## Final_Presentation
+## Final Presentation
 
 <a href="https://drive.google.com/file/d/1Z6RjGC70dAZE8qiyXNWFJv3A1af5aO4h/view?usp=sharing">Final_Presentation_pptx
 <br>
@@ -34,5 +34,10 @@
 
 <a href="https://drive.google.com/file/d/1RgCfYNJOguvCofR3zgl2J-FJRdaeve63/view?usp=sharing">System Architecture  
   
+<br>
+  
+## Project Plan
+
+<a href="https://drive.google.com/file/d/1kbV8XiiEqP3h9IoIY5B_OOHMj78HyJ-C/view?usp=sharing">Project Plan  
 
 
