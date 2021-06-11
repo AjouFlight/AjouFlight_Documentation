@@ -8,7 +8,21 @@
 **Flight shooting game to defeat enemies of the universe** 
 
 <br>
+  
+## Trailer_Video
 
+<a href="https://drive.google.com/file/d/1Dct9A3KAF258EsUp7fGuzvK7OUpS4CkG/view?usp=sharing">Trailer_Video
+  
+
+<br>
+  
+## Final_Presentation
+
+<a href="https://drive.google.com/file/d/1Z6RjGC70dAZE8qiyXNWFJv3A1af5aO4h/view?usp=sharing">Final_Presentation_pptx
+<a href="https://drive.google.com/file/d/1qBJheo0nANTg2uyF7_PylE9CmzmVYJI6/view?usp=sharing">Final_Presentation_pdf
+  
+<br>
+  
 ## GDD
 
 <a href="https://drive.google.com/file/d/1N8-FuvgpmoRJ6agHC2u04vY-big8U_J4/view?usp=sharing">Game Development Documentation
@@ -17,6 +31,7 @@
   
 ## System Architecture
 
-<a href="https://drive.google.com/file/d/1RgCfYNJOguvCofR3zgl2J-FJRdaeve63/view?usp=sharing">System Architecture
+<a href="https://drive.google.com/file/d/1RgCfYNJOguvCofR3zgl2J-FJRdaeve63/view?usp=sharing">System Architecture  
   
+
 
